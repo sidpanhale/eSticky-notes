@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseApp = firebase.initializeApp ({
-    apiKey: "AIzaSyD8zVxFZRrijsuAMKrKMLB56HIlHFtCYEs",
+    apiKey: "apikey",
     authDomain: "esticky-notes.firebaseapp.com",
     projectId: "esticky-notes",
     storageBucket: "esticky-notes.appspot.com",
